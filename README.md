@@ -12,3 +12,4 @@ CloudFlare 批量证书SSL设置
 在使用 CloudFlare API 时，请确保您有正确的 API 密钥和邮箱。
 处理 API 请求时，请确保正确处理错误和异常情况。
 频繁的 API 请求可能会受到 CloudFlare 的速率限制，请参考 CloudFlare 的 API 文档以了解更多详情。
+使用方法,直接打包下载所有文件,放到同一个文件夹里,直接解压即可使用
